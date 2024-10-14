@@ -14,11 +14,11 @@ You should spend approximately 1H30 on this task. If you can't finish it in this
 
 Following the react best practices, you should implement the following features:
 
-- [ ] Search functionality (on typing)
-- [ ] Pagination
-- [ ] Sorting by fields
-- [ ] Handle loading and error states properly
-- [ ] (BONUS) Some filters documented in the swagger
+- [x] Search functionality (on typing)
+- [x] Pagination
+- [x] Sorting by fields
+- [x] Handle loading and error states properly
+- [x] (BONUS) Some filters documented in the swagger
 
 ### Notes
 
